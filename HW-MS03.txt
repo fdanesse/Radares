@@ -1,0 +1,4 @@
+HW-MS03	Arduino	Funcion
+GND	    GND	    Tierra
+Vin	    3V	    Alimentacion +3V (ojo no soporta +5V)
+Out	    A0	    Señal del HW-MS03 al nodeMCU

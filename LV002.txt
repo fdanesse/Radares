@@ -1,0 +1,16 @@
+Características:
+Tensión de funcionamiento: DC6-40V
+Rango de detección: 8-15m
+Tensión nominal: DC12V
+Solicitar: iluminación de inducción, pasillo, pasillo, garaje, balcón, patio ocasión, como ahorro de energía
+Interruptor o dispositivo de alarma. Esto se utiliza principalmente en potencia con lámpara de inducción T8 (Lámpara de inducción de garaje)
+Tamaño: 31x17mm (placa de dos capas)
+Instalación: Instalación en pared, instalación en techo; Instalación integrada de dos piezas T8
+Potencia de transmisión: <2mW
+Potencia de carga: se puede utilizar como un disparador para instalar un relé. Máxima potencia de 1000W
+Ángulo de detección: 180 °
+Distancia de detección: 8-15m
+Retardo de funcionamiento: tiempo predeterminado de salida de disparo de 40s y 60s
+Cableado: (No coloques cables invertidos, de lo contrario la placa se quemará)
+El paquete incluye:
+1*8-15m LV002 10.525GHz microondas Radar Doppler interruptor Sensor de módulo
